@@ -25,7 +25,7 @@ A Next.js application that fetches live cryptocurrency price data from CoinCap A
 
 ### Prerequisites
 
-- Node.js (v16+)
+- Node.js (v20+)
 - npm or yarn
 
 ### Installation
