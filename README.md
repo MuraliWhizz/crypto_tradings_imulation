@@ -30,9 +30,8 @@ A Next.js application that fetches live cryptocurrency price data from CoinCap A
 
 ### Installation
 
-1. Clone the repository:
+1. Unzip the repository:
 ```bash
-git clone https://github.com/yourusername/crypto-trading-simulation.git
 cd crypto-trading-simulation
 ```
 
@@ -49,8 +48,13 @@ npm run dev
 # or
 yarn dev
 ```
-
-4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
+4. Run the production server
+```bash
+npm start
+# or
+yarn start
+```
+5. Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 
 ## How It Works
 
